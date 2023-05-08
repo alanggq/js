@@ -1,0 +1,10 @@
+*{
+    margin:1px;
+    padding: 1px;
+    box-sizing: border-box;
+}
+body{
+ text-align:center;
+ background:linear-gradient(green, blue,red);
+ border:2px dashed;
+ }
